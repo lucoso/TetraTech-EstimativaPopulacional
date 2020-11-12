@@ -14,7 +14,7 @@ Para testes locais, basta acessar os seguintes endpoints:
 
    - Acesse este endpoint, utilizando o método HTTP GET, para trazer um pequeno relatório contendo os últimos 10 acessos ao endpoint anterior. Esse relatório contém os seguintes dados:
      - Data da chamada (no formato Timestamp).
-     - Data futura que foi usada para solicitar a projeção. 
+     - Data futura que foi usada para solicitar a projeção (no formato Timestamp). 
      - População estimada atual (no exato momento que foi feito a chamada). 
      - População projetada para a data futura solicitada.
 
